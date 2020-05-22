@@ -70,3 +70,10 @@ Not a book.  Netflix's culture presentation.  Was really bold and unique when fi
 1. Weird Ideas That Work
 1. Agile Estimation and Planning
 1. 15 Commitments of Conscious Leadership
+
+## What Skills To Develop as a Manager
+1. These Quora responses have decent descriptions of skills to develop for management:
+    1. [What qualities and skills separate an Engineering Manager vs Director of Engineering vs VP of engineering?](https://www.quora.com/What-qualities-and-skills-separate-an-Engineering-Manager-vs-Director-of-Engineering-vs-VP-of-Engineering)
+    1. [What are the primary traits of a great people manager?](https://www.quora.com/What-are-the-primary-traits-of-a-great-people-manager)
+1. This [series of posts](http://www.eliothorowitz.com/blog/2013/10/17/debugging-the-boss-intro/) has a bunch of anti-patterns for leadership and how to not fall into them.
+1. This [online class](https://www.coursera.org/learn/motivate-people-teams/) will help you learn how to create a shared vision for your team and effectively communicate it to your teammates.
