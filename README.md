@@ -1,4 +1,4 @@
-# Tech Management
+# Tech Management Resource Map
 A Collection of Resources for Engineers Interested in Tech Management.
 > **Disclaimer:** The notes included alongside any resource included in this guide are not my own but rather, are opinions attributed to the individual(s) that recommended the particular resource to me 
 
@@ -113,3 +113,7 @@ This is one view.  I think keeping your hands somewhat dirty is important, but t
 1. [How Stripe Built One of Silicon Valley's best Engineering Teams](http://firstround.com/review/How-Stripe-built-one-of-Silicon-Valleys-best-engineering-teams/)
 1. [The Total Talent Reboot: How This Startuo Overhauled Its Workforce](http://firstround.com/review/the-total-talent-reboot-how-this-startup-overhauled-its-workforce/)
 1. [The Anatomy of the Perfect Technical Interview From a Former Amazon VP](http://firstround.com/review/The-anatomy-of-the-perfect-technical-interview-from-a-former-Amazon-VP/)
+
+## Estimation/Planning
+[Evidence-based scheduling](http://www.joelonsoftware.com/items/2007/10/26.html) by Joel Spolsky.  Might be a bit overkill, but you can get a lot of the same things out of Jira.  
+
