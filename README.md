@@ -79,7 +79,7 @@ Not a book.  Netflix's culture presentation.  Was really bold and unique when fi
 1. This [online class](https://www.coursera.org/learn/motivate-people-teams/) will help you learn how to create a shared vision for your team and effectively communicate it to your teammates.
 
 ## Transitioning From IC to Leader
-1. Great set of posts from First Round Capital blog.  Here are a couple, but it's worth looking for more.
+1. A great set of posts from First Round Capital blog.  Here are a couple, but it's worth looking for more.
     1. [This 90-day plan turns engineers into remarkable managers](http://firstround.com/review/this-90-day-plan-turns-engineers-into-remarkable-managers/)
     1. [The most dangerous leadership traps and the 15 minute daily practice that will save you](http://firstround.com/review/the-most-dangerous-leadership-traps-and-the-15-minute-daily-practice-that-will-save-you/)
     1. [The keys to scaling yourself as a technology leader](http://firstround.com/review/the-keys-to-scaling-yourself-as-a-technology-leader/)
@@ -97,3 +97,19 @@ This is one view.  I think keeping your hands somewhat dirty is important, but t
     1. [Engineering Ladder](https://dresscode.renttherunway.com/blog/ladder)
     1. [Ladder Spreadsheet](https://docs.google.com/spreadsheets/d/1k4sO6pyCl_YYnf0PAXSBcX776rNcTjSOqDxZ5SDty-4/edit#gid=0)
 1. A great [description](http://www.kitchensoap.com/2012/10/25/on-being-a-senior-engineer/) of what it means to be a "senior engineer".
+
+## Interviews
+#### For Interviewing Managers
+1. [Technical Interview Questions For Software Development Managers](http://katemats.com/technical-interview-questions-for-software-development-managers/)
+1. [Software Development Questions For Software Development Managers and Leaders](http://katemats.com/interview-questions-for-software-development-managers-and-leaders/)
+
+#### Sample Job Description for a VP Engineering
+1. [VPEngineering JD](http://katemats.com/wp-content/uploads/2011/12/VPEngineeringJD-September2011.pdf)
+
+#### Behavioural Interviewing Resources
+1. [Hire a Top Performer Every Time With These Interview Questions](http://firstround.com/review/hire-a-top-performer-every-time-with-these-interview-questions/)
+
+#### Other Recruiting Success Stories
+1. [How Stripe Built One of Silicon Valley's best Engineering Teams](http://firstround.com/review/How-Stripe-built-one-of-Silicon-Valleys-best-engineering-teams/)
+1. [The Total Talent Reboot: How This Startuo Overhauled Its Workforce](http://firstround.com/review/the-total-talent-reboot-how-this-startup-overhauled-its-workforce/)
+1. [The Anatomy of the Perfect Technical Interview From a Former Amazon VP](http://firstround.com/review/The-anatomy-of-the-perfect-technical-interview-from-a-former-Amazon-VP/)
