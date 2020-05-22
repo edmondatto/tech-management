@@ -91,3 +91,9 @@ Not a book.  Netflix's culture presentation.  Was really bold and unique when fi
 #### Should I Still Code?
 This is one view.  I think keeping your hands somewhat dirty is important, but that doesn't necessarily require writing code yourself.
 1. [Engineering Managers Should Code 30% of Their Time](https://www.drdobbs.com/architecture-and-design/engineering-managers-should-code-30-of-t/240165174)
+
+## Engineering Career Paths and Leveling
+1. This is a rather good template and description of skills required at each level (for ICs and managers) from Rent the Runway:
+    1. [Engineering Ladder](https://dresscode.renttherunway.com/blog/ladder)
+    1. [Ladder Spreadsheet](https://docs.google.com/spreadsheets/d/1k4sO6pyCl_YYnf0PAXSBcX776rNcTjSOqDxZ5SDty-4/edit#gid=0)
+1. A great [description](http://www.kitchensoap.com/2012/10/25/on-being-a-senior-engineer/) of what it means to be a "senior engineer".
