@@ -2,6 +2,25 @@
 A Collection of Resources for Engineers Interested in Tech Management.
 > **Disclaimer:** The notes included alongside any resource included in this guide are not my own but rather, are opinions attributed to the individual(s) that recommended the particular resource to me 
 
+**Table of Contents**
+1. [Blogs](https://github.com/edmondatto/tech-management#blogs)
+1. [Books](https://github.com/edmondatto/tech-management#books)
+    1. [General Management/Leadership](https://github.com/edmondatto/tech-management#general-managementleadership)
+    1. [Software Engineering](https://github.com/edmondatto/tech-management#software-engineering)
+    1. [Social Emotional Learning/Understanding Your Own Brain](https://github.com/edmondatto/tech-management#social-emotional-learning--understanding-your-own-brain)
+    1. [Culture/Organization](https://github.com/edmondatto/tech-management#cultureorganization)
+    1. [Other Books Recommended By Peers](https://github.com/edmondatto/tech-management#other-books-recommended-by-peers-but-i-have-not-read-yet)
+1. [What Skills to Develop as a Manager](https://github.com/edmondatto/tech-management#what-skills-to-develop-as-a-manager)
+1. [Transitioning From IC to Leader](https://github.com/edmondatto/tech-management#transitioning-from-ic-to-leader)
+    1. [Should I Still Code?](https://github.com/edmondatto/tech-management#should-i-still-code)
+1. [Engineering Career Paths and Leveling](https://github.com/edmondatto/tech-management#engineering-career-paths-and-leveling)
+1. [Interviews](https://github.com/edmondatto/tech-management#interviews)
+    1. [For Interviewing Managers](https://github.com/edmondatto/tech-management#for-interviewing-managers)
+    1. [Sample Job Description for a VP Engineering](https://github.com/edmondatto/tech-management#sample-job-description-for-a-vp-engineering)
+    1. [Behavioural Interviewing Resources](https://github.com/edmondatto/tech-management#behavioural-interviewing-resources)
+    1. [Other Recruiting Success Stories](https://github.com/edmondatto/tech-management#other-recruiting-success-stories)
+1. [Estimation/Planning](https://github.com/edmondatto/tech-management#estimationplanning)
+
 ## Blogs
 > The best place to start on this section is probably the most popular posts, with an eye towards whatever topics are of particular interest to you.  There's a lot on management and leadership here, but also on more technical topics, particularly from the company blogs.
 
