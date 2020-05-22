@@ -77,3 +77,17 @@ Not a book.  Netflix's culture presentation.  Was really bold and unique when fi
     1. [What are the primary traits of a great people manager?](https://www.quora.com/What-are-the-primary-traits-of-a-great-people-manager)
 1. This [series of posts](http://www.eliothorowitz.com/blog/2013/10/17/debugging-the-boss-intro/) has a bunch of anti-patterns for leadership and how to not fall into them.
 1. This [online class](https://www.coursera.org/learn/motivate-people-teams/) will help you learn how to create a shared vision for your team and effectively communicate it to your teammates.
+
+## Transitioning From IC to Leader
+1. Great set of posts from First Round Capital blog.  Here are a couple, but it's worth looking for more.
+    1. [This 90-day plan turns engineers into remarkable managers](http://firstround.com/review/this-90-day-plan-turns-engineers-into-remarkable-managers/)
+    1. [The most dangerous leadership traps and the 15 minute daily practice that will save you](http://firstround.com/review/the-most-dangerous-leadership-traps-and-the-15-minute-daily-practice-that-will-save-you/)
+    1. [The keys to scaling yourself as a technology leader](http://firstround.com/review/the-keys-to-scaling-yourself-as-a-technology-leader/)
+1. Some other good posts (and more good posts linked to from these)
+    1. [Notes on Startup Engineering Management](https://www.elidedbranches.com/2015/10/notes-on-startup-engineering-management.html?m=1)
+    1. [The maker/manager transition phase](https://joel.is/the-maker-manager-transition-phase/)
+    1. [Lead Developer to CTO at a Startup](https://www.socalcto.com/2012/07/lead-developer-to-cto-at-startup.html)
+    
+#### Should I Still Code?
+This is one view.  I think keeping your hands somewhat dirty is important, but that doesn't necessarily require writing code yourself.
+1. [Engineering Managers Should Code 30% of Their Time](https://www.drdobbs.com/architecture-and-design/engineering-managers-should-code-30-of-t/240165174)
