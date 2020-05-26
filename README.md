@@ -111,6 +111,9 @@ Not a book.  Netflix's culture presentation.  Was really bold and unique when fi
 This is one view.  I think keeping your hands somewhat dirty is important, but that doesn't necessarily require writing code yourself.
 1. [Engineering Managers Should Code 30% of Their Time](https://www.drdobbs.com/architecture-and-design/engineering-managers-should-code-30-of-t/240165174)
 
+## Balancing Internal Engineering Work/Technical Debt/Dev Tooling
+1. [Let 1,000 flowers bloom. Then rip 999 of them out by the roots](http://gigamonkeys.com/flowers/)
+
 ## Engineering Career Paths and Leveling
 1. This is a rather good template and description of skills required at each level (for ICs and managers) from Rent the Runway:
     1. [Engineering Ladder](https://dresscode.renttherunway.com/blog/ladder)
