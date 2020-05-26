@@ -136,3 +136,12 @@ This is one view.  I think keeping your hands somewhat dirty is important, but t
 ## Estimation/Planning
 [Evidence-based scheduling](http://www.joelonsoftware.com/items/2007/10/26.html) by Joel Spolsky.  Might be a bit overkill, but you can get a lot of the same things out of Jira.  
 
+## Feedback
+#### Giving/Receiving Feedback Promptly and Effectively
+1. [Radical Candor — The Surprising Secret to Being a Good Boss](http://firstround.com/review/radical-candor-the-surprising-secret-to-being-a-good-boss/)
+1. [23 Tools to Make Your Feedback Meaningful](http://firstround.com/review/23-Tools-to-Make-Feedback-Meaningful/)
+1. [How to Give and Receive Feedback at Work: The Psychology of Criticism](https://open.buffer.com/how-to-give-receive-feedback-work/)
+1. [7 Tough Lessons I’ve Learned on Giving and Receiving Feedback at our Startup](https://open.buffer.com/feedback/)
+1. [Giving Feedback – learning to criticize in a way that actually works](http://katemats.com/giving-feedback-learning-to-criticize-in-a-way-that-actually-works/)
+
+> The book "Difficult Conversations" also has a lot of material on this.
