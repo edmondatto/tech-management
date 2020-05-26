@@ -13,6 +13,7 @@ A Collection of Resources for Engineers Interested in Tech Management.
 1. [What Skills to Develop as a Manager](https://github.com/edmondatto/tech-management#what-skills-to-develop-as-a-manager)
 1. [Transitioning From IC to Leader](https://github.com/edmondatto/tech-management#transitioning-from-ic-to-leader)
     1. [Should I Still Code?](https://github.com/edmondatto/tech-management#should-i-still-code)
+1. [Balancing Internal Engineering Work/Technical Debt/Dev Tooling](https://github.com/edmondatto/tech-management#balancing-internal-engineering-worktechnical-debtdev-tooling)
 1. [Engineering Career Paths and Leveling](https://github.com/edmondatto/tech-management#engineering-career-paths-and-leveling)
 1. [Interviews](https://github.com/edmondatto/tech-management#interviews)
     1. [For Interviewing Managers](https://github.com/edmondatto/tech-management#for-interviewing-managers)
@@ -20,6 +21,12 @@ A Collection of Resources for Engineers Interested in Tech Management.
     1. [Behavioural Interviewing Resources](https://github.com/edmondatto/tech-management#behavioural-interviewing-resources)
     1. [Other Recruiting Success Stories](https://github.com/edmondatto/tech-management#other-recruiting-success-stories)
 1. [Estimation/Planning](https://github.com/edmondatto/tech-management#estimationplanning)
+1. [Feedback](https://github.com/edmondatto/tech-management#feedback)
+1. [Tailoring Your Management Style to Individual Employees](https://github.com/edmondatto/tech-management#tailoring-your-management-style-to--individual-employees)
+1. [Goal-setting/Implementing OKRs](https://github.com/edmondatto/tech-management#goal-settingimplementing-okrs)
+1. [Scaling Teams](https://github.com/edmondatto/tech-management#scaling-teams)
+1. [Building Trust](https://github.com/edmondatto/tech-management#building-trust)
+1. [Performance Reviews](https://github.com/edmondatto/tech-management#performance-reviews)
 
 ## Blogs
 > The best place to start on this section is probably the most popular posts, with an eye towards whatever topics are of particular interest to you.  There's a lot on management and leadership here, but also on more technical topics, particularly from the company blogs.
