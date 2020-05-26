@@ -166,3 +166,6 @@ This is one view.  I think keeping your hands somewhat dirty is important, but t
 ## Scaling Teams
 1. [Scaling Engineering Teams](https://medium.com/@AntiFreeze/scaling-engineering-teams-3b2500c061f6#.eol0fgef9)
 
+## Building Trust
+1. [Use This Equation to Determine, Diagnose, and Repair Trust](http://firstround.com/review/use-this-equation-to-determine-diagnose-and-repair-trust/)
+
