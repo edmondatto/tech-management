@@ -169,3 +169,7 @@ This is one view.  I think keeping your hands somewhat dirty is important, but t
 ## Building Trust
 1. [Use This Equation to Determine, Diagnose, and Repair Trust](http://firstround.com/review/use-this-equation-to-determine-diagnose-and-repair-trust/)
 
+## Performance Reviews
+1. [AltSchool's CEO Rebuilt Google's Performance Review System to Work for Startups — Here It Is](http://firstround.com/review/altschools-ceo-rebuilt-googles-performance-review-system-to-work-for-startups-here-it-is/)
+1. [One Rubric Changed Box's Engineering Performance — Here's How](http://firstround.com/review/one-rubric-changed-boxs-engineering-performance-heres-how/)
+1. [Performance Management at Startups](https://quip.com/MwcgA10sGgFC)
