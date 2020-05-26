@@ -158,3 +158,8 @@ This is one view.  I think keeping your hands somewhat dirty is important, but t
 ## Tailoring Your Management Style to  Individual Employees
 1. [How to Spot and Magnify the Powers of Your Engineering Superheroes](http://firstround.com/review/how-to-spot-and-magnify-the-powers-of-your-engineering-superheroes/)
 
+## Goal-setting/Implementing OKRs
+1. [OKRs](https://medium.com/startup-tools/okrs-5afdc298bc28#.9r6les6rm)
+1. [How to Make OKRs Actually Work at Your Startup](http://firstround.com/review/How-to-Make-OKRs-Actually-Work-at-Your-Startup/)
+1. [An actual template](https://docs.google.com/document/d/1OHpQOvZz76_10ebJP2AKvvXUF3H9yd6FC89F5jS4mks/edit?pli=1#)
+
