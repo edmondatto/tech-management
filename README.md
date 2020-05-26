@@ -154,3 +154,7 @@ This is one view.  I think keeping your hands somewhat dirty is important, but t
     1. [How to have great one on ones like Andy Grove in High Output Management](https://getlighthouse.com/blog/high-output-management/)
     1. [10 Things Every Employee Should Know About Their One-on-Ones](https://getlighthouse.com/blog/one-on-ones-employee-know/)
     1. [101 Questions to Ask in One on Ones](http://jasonevanish.com/2014/05/29/101-questions-to-ask-in-1-on-1s/)
+    
+## Tailoring Your Management Style to  Individual Employees
+1. [How to Spot and Magnify the Powers of Your Engineering Superheroes](http://firstround.com/review/how-to-spot-and-magnify-the-powers-of-your-engineering-superheroes/)
+
